@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn4$ gcc -o en en.c
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn4$ ./en
+Enter a number: 6
+Sum of even numbers between 1 and 6 is: 12
+
