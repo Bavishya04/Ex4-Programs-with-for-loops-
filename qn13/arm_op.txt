@@ -1,0 +1,4 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn13$ gcc -o arm arm.c -lm
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn13$ ./arm
+153 is an Armstrong number.
+
