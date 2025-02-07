@@ -1,0 +1,6 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn12$ gcc -o pal pal.c
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn12$ ./pal
+Enter a number: 121
+Reversed number: 121
+It is a Palindrome.
+
