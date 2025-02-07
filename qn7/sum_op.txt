@@ -1,0 +1,6 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn7$ gcc -o sum sum.c
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn7$ ./sum
+Enter the value of n:765
+Print digit=765
+First:7 and Last:5
+
