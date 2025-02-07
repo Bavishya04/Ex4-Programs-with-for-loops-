@@ -1,0 +1,9 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn10$ gcc -o proi proi.c
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn10$ ./proi
+Enter a number: 123
+Product of digits: 6
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn10$ gcc -o proi proi.c
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn10$ ./proi
+Enter a number: 100
+Product of digits: 0
+
