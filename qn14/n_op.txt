@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn14$ gcc -o n n.c -lm
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn14$ ./n
+Armstrong numbers between 1 and 1000 are:
+1 2 3 4 5 6 7 8 9 153 370 371 407 
+
