@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn11$ gcc -o rev rev.c
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn11$ ./rev
+Enter a number: 12345
+Reversed number: 54321
+
