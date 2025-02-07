@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn3$ gcc -o on on.c
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn3$ ./on
+Enter a number: 5
+Sum of odd numbers between 1 and 5 is: 9
+
