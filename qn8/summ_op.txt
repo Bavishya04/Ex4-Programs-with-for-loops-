@@ -1,0 +1,6 @@
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn8$ gcc -o summ summ.c
+auist@TF076:~/Documents/r2024115033/Ex4 7-02-25/qn8$ ./summ
+Enter the value of n:456
+Print digit=456
+First:4 and Last:6
+Sum of First and Last:10
